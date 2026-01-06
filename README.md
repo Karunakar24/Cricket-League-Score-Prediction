@@ -38,34 +38,25 @@ Traditional regression techniques fail to capture these complex relationships.
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### 📊 Venue Distribution
-**Image to add:** `images/venue_distribution.png`  
-(Bar chart showing number of matches per venue)
+<img width="1114" height="444" alt="image" src="https://github.com/user-attachments/assets/c83d625b-8fbe-4cd7-a3fb-e423ae5ee012" />
 
-![Venue Distribution](images/venue_distribution.png)
 
 ---
 
 ### 🏏 Top Batsmen by Total Runs
-**Image to add:** `images/top_batsmen.png`  
-(Top 10 batsmen by total runs)
-
-![Top Batsmen](images/top_batsmen.png)
+<img width="1094" height="551" alt="image" src="https://github.com/user-attachments/assets/364a1f1d-378b-4fba-a0f4-562054d7efd7" />
 
 ---
 
 ### 🎯 Top Bowlers by Total Wickets
-**Image to add:** `images/top_bowlers.png`  
-(Top 10 bowlers by total wickets)
+<img width="1082" height="547" alt="image" src="https://github.com/user-attachments/assets/8e93c79f-aba0-49a9-8e88-f12d1fd80b55" />
 
-![Top Bowlers](images/top_bowlers.png)
 
 ---
 
 ### 🔗 Feature Correlation Heatmap
-**Image to add:** `images/correlation_heatmap.png`  
-(Heatmap showing correlation between numerical features)
+<img width="903" height="538" alt="image" src="https://github.com/user-attachments/assets/186226e6-7de2-4584-bf96-8b170c4c40a9" />
 
-![Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 
@@ -95,10 +86,8 @@ A **Deep Neural Network (DNN)** was designed to model contextual and nonlinear p
 ---
 
 ### 📉 Training vs Validation Loss
-**Image to add:** `images/training_loss_curve.png`  
-(Line plot showing loss convergence)
+<img width="547" height="421" alt="image" src="https://github.com/user-attachments/assets/64dcb7ef-a712-4c69-9587-5f5878f042b4" />
 
-![Training Loss Curve](images/training_loss_curve.png)
 
 ---
 
@@ -115,10 +104,8 @@ The model converged within a few epochs and showed stable performance on unseen 
 An interactive prediction tool was built using **ipywidgets**, allowing users to input live match details and obtain predicted final scores in real time.
 
 ### 📸 Example Prediction Output
-**Image to add:** `images/widget_output.png`  
-(Screenshot showing predicted total score)
+<img width="332" height="376" alt="image" src="https://github.com/user-attachments/assets/69da627c-eec5-4998-b6a7-5caed4864501" />
 
-![Widget Output](images/widget_output.png)
 
 ---
 
